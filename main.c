@@ -1,6 +1,6 @@
 /*---------------------------------------------------------------------------------
 
- Demo of using the loadspc code from /Mic in a PVSNESLIB code
+ Test of calling an asm function in a c code
 
 ---------------------------------------------------------------------------------*/
 #include <snes.h>
